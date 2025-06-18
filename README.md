@@ -25,7 +25,7 @@
 
 ### 📫 Let's Connect!
 
-- 💬 Telegram: [@yourusername](https://t.me/uzafo)  
+- 💬 Telegram: [@uzafo](https://t.me/uzafo)  
 - 📧 Email: oribjonovafzaliy@gmail.com
 
 ---
