@@ -3,8 +3,6 @@
 
 ---
 
-### 🚀 About Me
-
 🎯 I'm a self-driven **Full Stack Developer** with a strong grasp of both frontend and backend technologies.  
 🧠 I enjoy building interactive UIs, robust APIs, and smart automation tools like Telegram bots.  
 🌱 Always eager to learn and explore new technologies.
