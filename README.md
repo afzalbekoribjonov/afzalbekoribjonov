@@ -116,11 +116,26 @@ My current focus areas:
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Termius-1F8DED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
 
 ---
+
+## 🧠 Knowledge & Tools
+
+- Prompt Engineering
+- Database Management
+- Docker
+- Termius / SSH workflows
+- API Integration
+- Webhook architecture
+- Bot automation
+- Deployment workflows
+- Debugging and problem solving
+- Clean architecture and system design
 
 ## 🌱 Current Focus
 
