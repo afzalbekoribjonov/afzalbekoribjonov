@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm UZAFO</h1>
 <h3 align="center">Afzalbek Oribjonov</h3>
 
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Telegram+Bot+Builder;AI-Powered+Product+Creator;Clean+Architecture+%7C+Modern+UI+%7C+Scalable+Systems" alt="Typing SVG" />
