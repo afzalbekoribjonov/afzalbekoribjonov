@@ -162,8 +162,8 @@ Responsive websites, admin dashboards, portfolio systems, blog/discussion module
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-uzafo.vercel.app/api?username=afzalbekoribjonov&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats-uzafo.vercel.app/api/top-langs/?username=afzalbekoribjonov&layout=compact&hide_border=true" height="170" alt="Top languages" />
+  <img src="https://github-readme-stats-uzafo.vercel.app/api?username=afzalbekoribjonov&show_icons=true&hide_border=true&rank_icon=github&v=2" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats-uzafo.vercel.app/api/top-langs/?username=afzalbekoribjonov&layout=compact&hide_border=true&v=2" height="170" alt="Top languages" />
 </p>
 
 ---
